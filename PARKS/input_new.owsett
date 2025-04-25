@@ -358,7 +358,7 @@
                 {
                     "name": "",
                     "id": "3e81f2af-3342-4e0c-945c-e356eefeb27e",
-                    "path": "<Keyboard>/e",
+                    "path": "<Keyboard>/c",
                     "interactions": "",
                     "processors": "",
                     "groups": "KeyboardMouse",
@@ -1960,7 +1960,7 @@
                 {
                     "name": "",
                     "id": "638826a3-eeac-4d93-ace5-8964c02f56e1",
-                    "path": "<Mouse>/backButton",
+                    "path": "<Keyboard>/r",
                     "interactions": "",
                     "processors": "",
                     "groups": "KeyboardMouse",
@@ -2404,7 +2404,7 @@
                 {
                     "name": "",
                     "id": "00727fb5-d84b-49a1-8d0e-b269e0554a47",
-                    "path": "<Keyboard>/r",
+                    "path": "<Mouse>/leftButton",
                     "interactions": "",
                     "processors": "",
                     "groups": "KeyboardMouse",
@@ -2672,7 +2672,7 @@
                 {
                     "name": "",
                     "id": "e025329b-5d64-4235-ab6c-32d24aa52031",
-                    "path": "<Keyboard>/capsLock",
+                    "path": "<Keyboard>/a",
                     "interactions": "",
                     "processors": "",
                     "groups": "KeyboardMouse",
@@ -2729,7 +2729,7 @@
                 {
                     "name": "",
                     "id": "8a8e1d24-d064-4c3c-a932-2bfe69f63e43",
-                    "path": "<Keyboard>/t",
+                    "path": "<Keyboard>/c",
                     "interactions": "",
                     "processors": "",
                     "groups": "KeyboardMouse",
